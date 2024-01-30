@@ -1,0 +1,67 @@
+﻿@page "/createuser"
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+@inject UsersService UsersService
+<h3>Add User</h3>
+
+
+
+@code {
+    // Parameter for User Creation
+    [Parameter] public Guid toCreateUserId { get; set; }
+
+    // Cascading parameter for sharing global state
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    // Error message to display in case of exceptions
+    private string _errorMessage { get; set; } = "";
+
+    // Collection to store existing users
+    private IEnumerable<User> _users = new List<User>();
+
+    // Initialization method to retrieve existing users
+    protected override void OnInitialized()
+    {
+        _users = UsersService.GetAll();
+    }
+
+    // Method to navigate back to the users page
+    protected void returnToPage()
+    {
+        NavigationManager.NavigateTo("/users");
+    }
+
+    // Method to create a new user
+    public static List<User> Create(Guid userId, string username, string password, Role role)
+    {
+        // Get existing users
+        List<User> users = UsersService.GetAll();
+        
+        //Check if the username already exists
+        bool usernameExists = users.Any(x => x.Username == username);
+
+        if (usernameExists)
+        {
+            // Throw an exception if the username is already taken
+            throw new Exception("Username already exists.");
+        }
+
+        // Add the new user
+        users.Add(
+            new User
+                {
+                    // Assuming you have a method HashSecret to hash the password
+                    Username = username,
+                    PasswordHash = Utils.HashSecret(password),
+                    Role = role,
+                    CreatedBy = userId
+                }
+        );
+        // dave the updated list of users
+        UsersService.SaveAll(users);
+        
+        //return the updated list of users
+        return users;
+    }
+}

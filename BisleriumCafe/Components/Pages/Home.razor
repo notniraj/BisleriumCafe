@@ -1,0 +1,26 @@
+﻿@page "/"
+@layout Layout.ContainerLayout
+@inject NavigationManager NavManager
+
+<MudIcon Icon="@Icons.Material.Filled.Coffee" Size="Size.Large"></MudIcon>
+
+@code {
+    // Cascading parameter to share global state
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    // Initialization method to check user authentication
+    protected override void OnInitialized()
+    {
+        // Redirect to the login page if the user is not authenticated
+        if (_globalState.CurrentUser == null)
+        {
+            NavManager.NavigateTo("/login");
+        }
+        // Redirect to the home page if the user is already authenticated
+        else
+        {
+            NavManager.NavigateTo("/");
+        }
+    }
+}

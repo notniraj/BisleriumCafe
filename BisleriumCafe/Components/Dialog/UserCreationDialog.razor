@@ -1,0 +1,65 @@
+﻿@inject ISnackbar Snackbar
+
+<!-- MudDialog for creating a new user -->
+<MudDialog Class="bg-info rounded-xl">
+    <!-- Dialog content section -->
+    <DialogContent>
+        <!-- MudTextField for Username input -->
+        <MudTextField T="string" @bind-Value="@username" Label="Username" Required="true" RequiredError="Username is required!"></MudTextField>
+
+        <!-- MudTextField for Password input -->
+        <MudTextField T="string" Label="Password" @bind-value="@password" Required="true" RequiredError="Password is required!"></MudTextField>
+
+        <!-- MudRadioGroup for selecting the user role -->
+        <div class="d-flex">
+            <MudRadioGroup T="string" @bind-SelectedOption="@role" Required="true" RequiredError="Account type is required!">
+                <MudRadio Color="Color.Secondary" Option="@("User")">Staff</MudRadio>
+                <MudRadio Color="Color.Secondary" Option="@("Admin")">Admin</MudRadio>
+            </MudRadioGroup>
+        </div>
+    </DialogContent>
+
+    <!-- Dialog actions section -->
+    <DialogActions>
+        <!-- Cancel button -->
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+
+        <!-- Submit button -->
+        <MudButton Color="Color.Primary" OnClick="Submit">Ok</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+
+    private string username;
+    private string password;
+    private string role;
+
+    // Method to submit the form and create a new user
+    void Submit()
+    {
+        try
+        {
+            @if (role != null)
+            {
+                // Call the UsersService to create a new userklp
+                UsersService.Create(Guid.NewGuid(), username, password, Enum.Parse<Role>(role));
+
+                // Show a success snackbar notification
+                Snackbar.Add($"Staff {username} is Added!", Severity.Success);
+
+                // Close the dialog with a DialogResult indicating success
+                MudDialog.Close(DialogResult.Ok(true));
+            }
+        }
+        catch (Exception e)
+        {
+            Snackbar.Add(e.Message, Severity.Error);
+        }
+
+    }
+
+    // Method to cancel and close the dialog
+    void Cancel() => MudDialog.Cancel();
+}

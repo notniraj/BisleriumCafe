@@ -1,0 +1,898 @@
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\AboutAssets.txt
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\BisleriumCafe.styles.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\BisleriumCafe.bundle.scp.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\app.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\bgImage.jpg
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\dialogimg.jpg
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\loginstyle.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\favicon.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\index.html
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MudBlazor.ThemeManager\MudBlazorThemeManager.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MudBlazor\MudBlazor.min.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MudBlazor\MudBlazor.min.js
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\OpenSans-Regular.ttf
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-256.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-48.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-32.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-24.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-16.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-256.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-48.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-32.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-24.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-16.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appicon.ico
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Components\Layout\MainLayout.razor.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Components\Layout\NavMenu.razor.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\CoreMessagingXP.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dcompi.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dwmcorei.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\DwmSceneI.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\DWriteCore.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\marshal.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.DirectManipulation.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Display.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InputStateManager.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Internal.FrameworkUdk.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Composition.OSSupport.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Input.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Windowing.Core.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Windowing.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.Controls.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.ui.xaml.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.Internal.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.Phone.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.ui.xaml.resources.19h1.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.ui.xaml.resources.common.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Web.WebView2.Core.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Insights.Resource.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\MRM.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\PushNotificationsLongRunningTask.ProxyStub.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WindowsAppSdk.AppxDeploymentExtensions.Desktop-EventLog-Instrumentation.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WindowsAppSdk.AppxDeploymentExtensions.Desktop.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WinUIEdit.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wuceffectsi.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\af-ZA\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\af-ZA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ar-SA\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ar-SA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\az-Latn-AZ\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\az-Latn-AZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\bg-BG\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\bg-BG\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\bs-Latn-BA\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\bs-Latn-BA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ca-ES\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ca-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cs-CZ\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cs-CZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cy-GB\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cy-GB\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\da-DK\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\da-DK\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\de-DE\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\de-DE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\el-GR\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\el-GR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\en-GB\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\en-GB\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\en-us\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\en-us\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es-ES\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es-MX\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es-MX\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\et-EE\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\et-EE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\eu-ES\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\eu-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fa-IR\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fa-IR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fi-FI\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fi-FI\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr-CA\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr-CA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr-FR\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr-FR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\gl-ES\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\gl-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\he-IL\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\he-IL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hi-IN\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hi-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hr-HR\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hr-HR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hu-HU\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hu-HU\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\id-ID\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\id-ID\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\is-IS\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\is-IS\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\it-IT\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\it-IT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ja-JP\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ja-JP\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ka-GE\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ka-GE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\kk-KZ\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\kk-KZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ko-KR\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ko-KR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\lt-LT\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\lt-LT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\lv-LV\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\lv-LV\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ms-MY\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ms-MY\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nb-NO\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nb-NO\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nl-NL\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nl-NL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nn-NO\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nn-NO\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pl-PL\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pl-PL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-PT\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-PT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ro-RO\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ro-RO\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ru-RU\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ru-RU\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sk-SK\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sk-SK\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sl-SI\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sl-SI\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sq-AL\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sq-AL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sr-Cyrl-RS\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sr-Cyrl-RS\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sr-Latn-RS\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sr-Latn-RS\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sv-SE\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sv-SE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\th-TH\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\th-TH\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\tr-TR\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\tr-TR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\uk-UA\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\uk-UA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\vi-VN\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\vi-VN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-CN\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-CN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-TW\Microsoft.ui.xaml.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-TW\Microsoft.UI.Xaml.Phone.dll.mui
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml\Assets\NoiseAsset_256x256_PNG.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WindowsAppRuntime.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Foundation.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Text.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Web.WebView2.Core.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.winmd
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.exe
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.deps.json
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.runtimeconfig.json
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.pdb
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\HarfBuzzSharp.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Localization.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Localization.Abstractions.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\MudBlazor.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\MudBlazor.ThemeManager.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\QuestPDF.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.HarfBuzz.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\libHarfBuzzSharp.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\libSkiaSharp.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.Controls.pri
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.csproj.AssemblyReference.cache
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.BisleriumCafe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.BisleriumCafe.props
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.BisleriumCafe.props
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.BisleriumCafe.props
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BisleriumCafe.styles.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\BisleriumCafe.bundle.scp.css
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.AssemblyInfoInputs.cache
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.AssemblyInfo.cs
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.csproj.CoreCompileInputs.cache
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.csproj.CopyComplete
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\refint\BisleriumCafe.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.pdb
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.genruntimeconfig.cache
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\ref\BisleriumCafe.dll
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\COLLEGE FILES\! Year 3 Class Stuff\Application Development\BisleriumCafe\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\AboutAssets.txt
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MudBlazor.ThemeManager\MudBlazorThemeManager.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MudBlazor\MudBlazor.min.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\_content\MudBlazor\MudBlazor.min.js
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\BisleriumCafe.styles.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\BisleriumCafe.bundle.scp.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\app.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\bgImage.jpg
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\dialogimg.jpg
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\css\loginstyle.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\favicon.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wwwroot\index.html
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\OpenSans-Regular.ttf
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appicon.ico
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-16.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-24.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-256.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-32.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconLogo.targetsize-48.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconMediumTile.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconSmallTile.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconStoreLogo.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\appiconWideTile.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Components\Layout\MainLayout.razor.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Components\Layout\NavMenu.razor.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\CoreMessagingXP.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dcompi.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\dwmcorei.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\DwmSceneI.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\DWriteCore.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\marshal.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.DirectManipulation.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Display.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InputStateManager.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Composition.OSSupport.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Input.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Windowing.Core.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Windowing.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.Controls.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.ui.xaml.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.Internal.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.Phone.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.ui.xaml.resources.19h1.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.ui.xaml.resources.common.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Web.WebView2.Core.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Insights.Resource.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\MRM.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\PushNotificationsLongRunningTask.ProxyStub.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WindowsAppSdk.AppxDeploymentExtensions.Desktop-EventLog-Instrumentation.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WindowsAppSdk.AppxDeploymentExtensions.Desktop.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WinUIEdit.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\wuceffectsi.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\af-ZA\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\af-ZA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ar-SA\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ar-SA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\az-Latn-AZ\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\az-Latn-AZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\bg-BG\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\bg-BG\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\bs-Latn-BA\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\bs-Latn-BA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ca-ES\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ca-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cs-CZ\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cs-CZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cy-GB\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cy-GB\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\da-DK\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\da-DK\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\de-DE\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\de-DE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\el-GR\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\el-GR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\en-GB\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\en-GB\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\en-us\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\en-us\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es-ES\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es-MX\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es-MX\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\et-EE\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\et-EE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\eu-ES\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\eu-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fa-IR\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fa-IR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fi-FI\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fi-FI\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr-CA\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr-CA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr-FR\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr-FR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\gl-ES\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\gl-ES\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\he-IL\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\he-IL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hi-IN\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hi-IN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hr-HR\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hr-HR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hu-HU\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hu-HU\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\id-ID\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\id-ID\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\is-IS\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\is-IS\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\it-IT\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\it-IT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ja-JP\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ja-JP\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ka-GE\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ka-GE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\kk-KZ\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\kk-KZ\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ko-KR\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ko-KR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\lt-LT\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\lt-LT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\lv-LV\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\lv-LV\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ms-MY\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ms-MY\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nb-NO\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nb-NO\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nl-NL\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nl-NL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nn-NO\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nn-NO\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pl-PL\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pl-PL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-PT\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-PT\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ro-RO\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ro-RO\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ru-RU\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ru-RU\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sk-SK\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sk-SK\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sl-SI\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sl-SI\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sq-AL\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sq-AL\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sr-Cyrl-RS\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sr-Cyrl-RS\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sr-Latn-RS\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sr-Latn-RS\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sv-SE\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sv-SE\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\th-TH\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\th-TH\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\tr-TR\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\tr-TR\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\uk-UA\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\uk-UA\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\vi-VN\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\vi-VN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-CN\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-CN\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-TW\Microsoft.ui.xaml.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-TW\Microsoft.UI.Xaml.Phone.dll.mui
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml\Assets\NoiseAsset_256x256_PNG.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WindowsAppRuntime.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Foundation.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Text.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Web.WebView2.Core.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.winmd
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.exe
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.deps.json
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.runtimeconfig.json
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.pdb
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\HarfBuzzSharp.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Localization.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\MudBlazor.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\MudBlazor.ThemeManager.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\QuestPDF.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\SkiaSharp.HarfBuzz.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\libHarfBuzzSharp.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\libSkiaSharp.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\bin\Release\net8.0-windows10.0.19041.0\win10-x64\Microsoft.UI.Xaml.Controls.pri
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.csproj.AssemblyReference.cache
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.BisleriumCafe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.BisleriumCafe.props
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.BisleriumCafe.props
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.BisleriumCafe.props
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BisleriumCafe.styles.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\BisleriumCafe.bundle.scp.css
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.AssemblyInfoInputs.cache
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.AssemblyInfo.cs
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.csproj.CoreCompileInputs.cache
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.csproj.CopyComplete
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\refint\BisleriumCafe.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.pdb
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\BisleriumCafe.genruntimeconfig.cache
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\ref\BisleriumCafe.dll
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\niraj\Downloads\BisleriumCafe\BisleriumCafe\obj\Release\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt

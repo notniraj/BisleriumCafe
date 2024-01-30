@@ -1,0 +1,47 @@
+﻿@inject NavigationManager NavigationManager
+@layout MainLayout
+<MudNavMenu>
+    @if (_globalState.CurrentUser != null && _globalState.CurrentUser.Role == Role.Admin)
+    {
+        <MudNavLink Href="/coffees" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Coffee">Coffees</MudNavLink>
+        <MudNavLink Href="/addins" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.AddCircle">AddIns</MudNavLink>
+        <MudNavLink Href="/users" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Person2">Users</MudNavLink>
+        <MudNavLink Href="/ordercoffee" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.CoffeeMaker">Order Coffee</MudNavLink>
+        <MudNavLink Href="/report" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Report">Transactions Report</MudNavLink>
+        <MudNavLink Href="/changepassword" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Password">Change Password</MudNavLink>
+    }
+    else
+    {
+        <MudNavLink Href="/ordercoffee" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.CoffeeMaker">Order Coffee</MudNavLink>
+        <MudNavLink Href="/report" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Report">Create Report</MudNavLink>
+        <MudNavLink Href="/changepassword" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Password">Change Password</MudNavLink>
+    }
+    <MudNavLink @onclick="LogoutHandler" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Logout" IconColor="Color.Secondary">Logout</MudNavLink>
+   
+    
+</MudNavMenu>
+
+
+@code {
+
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    [Parameter]
+    public string Username { get; set; }
+    [Parameter]
+    public Role UserRole { get; set; }
+ 
+    private void LogoutHandler()
+    {
+        _globalState.CurrentUser = null;
+        NavigationManager.NavigateTo("/login");
+    }
+
+    private IEnumerable<User> _users = new List<User>();
+
+    protected override void OnInitialized()
+    {
+      _users = UsersService.GetAll();
+    }
+}

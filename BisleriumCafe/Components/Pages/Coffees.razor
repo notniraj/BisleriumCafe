@@ -1,0 +1,93 @@
+﻿@page "/coffees"
+@inherits LayoutComponentBase
+@layout Layout.MainLayout
+@inject NavigationManager NavigationManager
+@inject CoffeeServices CoffeeServices
+@inject ISnackbar Snackbar
+@inject IDialogService DialogService
+
+<!-- Header Section -->
+<div class="d-flex flex-row justify-content-between p-3">
+    <p class="h3 text-light">Add Coffee</p>
+    <!-- Button to Open Coffee Creation Dialog -->
+    <MudButton Style="padding:10px; letter-spacing:2px;" Class="bg-primary rounded-lg" @onclick="OpenDialog" Variant="Variant.Filled" Color="Color.Primary">
+        Add Coffee
+    </MudButton>
+</div>
+
+<!-- Coffee Table Section -->
+<MudTable Items="@_coffeeList" Hover="true" Class="mx-lg-auto object-contain">
+    <ToolBarContent>
+        <!-- Table Header -->
+        <MudText Typo="Typo.h5">Coffee Menu</MudText>
+        <MudSpacer />
+    </ToolBarContent>
+
+    <HeaderContent>
+        <!-- Column Headers -->
+        <MudTh Style="font-weight:600;">Coffee Type</MudTh>
+        <MudTh Style="font-weight:600;">Price</MudTh>
+        <MudTh Style="font-weight:600;">Actions</MudTh>
+    </HeaderContent>
+
+    <RowTemplate>
+        <!-- Data Rows -->
+        <MudTd DataLabel="Coffee Type">@context.CoffeeType</MudTd>
+        <MudTd DataLabel="Price">@context.Price</MudTd>
+        <MudTd DataLabel="Actions">
+            <!-- Edit and Delete Buttons -->
+            <MudStack Row>
+                <MudButton Size="@Size.Small" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Edit" IconColor="Color.Secondary" OnClick="@(() => EditCoffee(context.CoffeeId))">Edit</MudButton>
+                <MudButton Size="@Size.Small" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Delete" Color="Color.Error" OnClick="@(() => {DeleteCoffee(context.CoffeeId); Snackbar.Add("Coffee Info Deleted.", Severity.Info, config =>
+                {
+                    config.Icon = Icons.Material.Filled.DownloadDone;
+                    config.IconColor = Color.Warning;
+                    config.IconSize = Size.Large;
+                });})">
+                    Delete
+                </MudButton>
+            </MudStack>
+        </MudTd>
+    </RowTemplate>
+
+    <PagerContent>
+        <!-- Table Pager -->
+        <MudTablePager />
+    </PagerContent>
+</MudTable>
+
+@code {
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    private string _errorMessage { get; set; } = "";
+
+    private IEnumerable<CoffeeItems> _coffeeList = new List<CoffeeItems>();
+
+    // Method to open the Coffee creation dialog
+    private void OpenDialog()
+    {
+        DialogOptions closeOnEscapeKey = new DialogOptions() { CloseOnEscapeKey = true };
+
+        // Show the Coffee creation dialog
+        DialogService.ShowAsync<CoffeeCreationDialog>("Add Coffee", closeOnEscapeKey);
+    }
+
+    // Initialize the component and fetch all coffee items
+    protected override void OnInitialized()
+    {
+        _coffeeList = CoffeeServices.GetAll();
+    }
+
+    // Handler to navigate to the edit Coffee page
+    private void EditCoffee(Guid toEditCoffeeId)
+    {
+        NavigationManager.NavigateTo($"/coffees/{toEditCoffeeId}");
+    }
+
+    // Handler to delete a Coffee item
+    private void DeleteCoffee(Guid cID)
+    {
+        _coffeeList = CoffeeServices.DelCoffeeInList(cID);
+    }
+}

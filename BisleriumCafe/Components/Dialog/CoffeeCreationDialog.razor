@@ -1,0 +1,57 @@
+﻿@inject ISnackbar Snackbar
+
+<!-- Style to set background image for the dialog -->
+<style>
+    MudDialog .dialog-container {
+        background-image: url("../../wwwroot/css/dialogimg.jpg");
+    }
+</style>
+
+<!-- MudDialog for creating a new coffee entry -->
+<MudDialog Class="rounded-xl">
+    <DialogContent>
+        <!-- MudTextField for Coffee Name input -->
+        <MudTextField T="string" @bind-Value="@coffeeName" Label="Coffee Name" Required="true" RequiredError="Coffee name is required!"></MudTextField>
+
+        <!-- MudTextField for Price input -->
+        <MudTextField T="string" Label="Price" @bind-value="@price" Required="true" RequiredError="Price is required!"></MudTextField>
+    </DialogContent>
+    <DialogActions>
+        <!-- Button to Cancel the dialog -->
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+
+        <!-- Button to Submit the form -->
+        <MudButton Color="Color.Primary" OnClick="Submit">Ok</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code{
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+
+    private string coffeeName;
+    private string price;
+
+    // Method to submit the form and create a new coffee entry
+    void Submit()
+    {
+        try
+        {
+            // Call the CoffeeServices to create a new coffee entry
+            CoffeeServices.CreateCoffee(Guid.NewGuid(), coffeeName, double.Parse(price));
+            // Show a success snackbar notification
+            Snackbar.Add($"Coffee {coffeeName} is Added!", Severity.Success);
+
+            // Close the dialog with a DialogResult indicating success
+            MudDialog.Close(DialogResult.Ok(true));
+
+        }
+        catch (Exception e)
+        {
+            Snackbar.Add(e.Message, Severity.Error);
+        }
+
+    }
+    
+    // Method to cancel and close the dialog
+    void Cancel() => MudDialog.Cancel();
+}

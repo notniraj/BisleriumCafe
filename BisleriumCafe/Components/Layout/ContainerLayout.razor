@@ -1,0 +1,31 @@
+﻿@inherits LayoutComponentBase
+@inject NavigationManager NavManager
+
+<MudThemeProvider @ref="@_mudThemeProvider" />
+<MudDialogProvider FullWidth="true"
+                   MaxWidth="MaxWidth.ExtraSmall"
+                   CloseButton="true"
+                   DisableBackdropClick="true"
+                   NoHeader="true"
+                   Position="DialogPosition.Center"
+                   CloseOnEscapeKey="true" />
+<MudSnackbarProvider />
+
+<MudLayout>
+    <CascadingValue Value="this">
+        <CascadingValue Value="_globalState">
+            @Body
+        </CascadingValue>
+    </CascadingValue>
+</MudLayout>
+
+@code {
+
+    private GlobalState _globalState = new();
+    private MudThemeProvider _mudThemeProvider;
+
+    protected override void OnInitialized()
+    {
+        UsersService.SeedUsers();
+    }
+}

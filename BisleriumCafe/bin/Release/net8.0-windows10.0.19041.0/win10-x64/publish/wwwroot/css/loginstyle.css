@@ -1,0 +1,48 @@
+﻿@import url('c:\college files\! year 3 class stuff\application development\bisleriumcafe\bisleriumcafe\bisleriumcafe\wwwroot\loginstyle.css');
+
+body {
+    padding: 0;
+    margin: 0;
+
+}
+
+.loginbg svg{
+    background-color:black;
+    border-radius:.2em;
+}
+
+.loginbg h1, h4, svg {
+    color:white;
+    text-shadow: 10px 10px 10px black;
+}
+
+
+.mud-main-content {
+    background-image: url('bgImage.jpg');
+    background-size: cover;
+    font-family: 'Salsa', cursive;
+}
+
+.mud-main-content h3{
+    padding: .5em .5em;
+}
+
+.mud-main-content .coffeecreate,h3{
+    color:white;
+}
+.mud-main-content .table{
+    background-color:white;
+}
+
+.mud-main-content .newcoffee{
+    background-color:white;
+}
+
+.mud-main-content .editform{
+    background-color:white;
+}
+
+.mud-appbar{
+    background-image:url("dialogimg.jpg");
+    background-size:cover
+}

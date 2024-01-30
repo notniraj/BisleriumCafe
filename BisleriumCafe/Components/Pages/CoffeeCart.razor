@@ -1,0 +1,61 @@
+﻿@page "/ordercoffee/{toBuyCoffeeId}"
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+
+<!-- Coffee Cart Header -->
+<h3>Coffee Cart</h3>
+
+<!-- Coffee Information Form -->
+<form class="editform container">
+    <div class="row g-3">
+        <!-- Coffee Type Input -->
+        <div class="col-md-6">
+            <label for="coffeeType" class="form-label">Coffee type</label>
+            <input type="text" class="form-control" id="coffeeType" @bind-value="_coffee.CoffeeType">
+        </div>
+
+        <!-- Price Input -->
+        <div class="col-md-6">
+            <label for="price" class="form-label">Price</label>
+            <input type="number" class="form-control" id="price" @bind-value="_coffee.Price">
+        </div>
+
+        <div class="col-md-6">
+            <!-- Placeholder for potential additional fields -->
+        </div>
+
+        <!-- Submit Button -->
+        <div class="col-12">
+            <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Edit" Color="Color.Success" @ondurationchange="()=>returnToPage()" @onclick="@(() => Snackbar.Add("Coffee Info Updated.", Severity.Info, config =>
+        {
+                config.Icon = Icons.Material.Filled.DownloadDone;
+                config.IconColor = Color.Warning;
+                config.IconSize = Size.Large;
+            }))">
+                Edit
+            </MudButton>
+        </div>
+    </div>
+</form>
+
+@code {
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+    [Parameter] public string toBuyCoffeeId { get; set; }
+
+    private string _errorMessage { get; set; } = "";
+
+    private CoffeeItems _coffee { get; set; }
+
+    // Initialize the component and fetch the coffee information by ID
+    protected override void OnInitialized()
+    {
+        _coffee = CoffeeServices.GetCofeeByID(toBuyCoffeeId);
+    }
+
+    // Navigate back to the coffees page
+    protected void returnToPage()
+    {
+        NavigationManager.NavigateTo("/coffees");
+    }
+}

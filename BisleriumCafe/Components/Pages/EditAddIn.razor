@@ -1,0 +1,91 @@
+﻿@page "/addins/{toEditAddInId}"
+@inject NavigationManager NavigationManager
+@inject AddinServices AddinServices
+@inject ISnackbar Snackbar
+
+<h3>Edit Addins</h3>
+
+<form class="editform container" @onsubmit="()=>EditAddInHandler()">
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label for="coffeeType" class="form-label">Coffee type</label>
+            <input type="text" class="form-control" id="coffeeType" @bind-value="_addIns.AddInType">
+        </div>
+        <div class="col-md-6">
+            <label for="price" class="form-label">Price</label>
+            <input type="number" class="form-control" id="price" @bind-value="_addIns.Price">
+        </div>
+        <div class="col-md-6">
+        </div>
+        <div class="col-12">
+            <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Edit" Color="Color.Success" @ondurationchange="()=>returnToPage()" @onclick="@(() => {returnToPage(); Snackbar.Add("Add-In Info Updated.", Severity.Info, config =>
+            {
+                config.Icon = Icons.Material.Filled.DownloadDone;
+                config.IconColor = Color.Warning;
+                config.IconSize = Size.Large;
+            });})">
+                Edit
+            </MudButton>
+        </div>
+    </div>
+</form>
+
+@code {
+    // Parameter to get the ID of the Add-In to be edited
+    [Parameter] public string toEditAddInId { get; set; }
+
+    // Cascading parameter to share global state
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    // Error message to display in case of exceptions
+    private string _errorMessage { get; set; } = "";
+
+    // Add-In object to store the details
+    private AddIns _addIns { get; set; }
+
+
+    // Initialization method to retrieve the details of the Add-In to be edited
+    protected override void OnInitialized()
+    {
+        _addIns = AddinServices.GetAddInById(toEditAddInId);
+    }
+
+    // Method to navigate back to the Add-Ins page
+    protected void returnToPage()
+    {
+        NavigationManager.NavigateTo("/addins");
+    }
+
+    // Method to handle the Add-In editing process
+    protected void EditAddInHandler()
+    {
+        try
+        {
+            // Validation checks for Add-In details
+            if (String.IsNullOrEmpty(_addIns.AddInType))
+            {
+                _errorMessage = "Enter the add-in type";
+                return;
+            }
+
+            if (_addIns.Price <= 0)
+            {
+                _errorMessage = "Enter a valid price";
+                return;
+            }
+
+            // Reset the error message
+            _errorMessage = "";
+            
+            // Update the Add-In information
+            AddinServices.UpdateAddInInfo(_addIns);
+
+        }
+        catch (Exception ex)
+        {
+            // Handle exceptions and display an error message
+            _errorMessage = ex.Message;
+        }
+    }
+}

@@ -1,0 +1,137 @@
+﻿@page "/report"
+@inject OrderServices OrderServices
+@inject ReportServices ReportServices
+@using QuestPDF.Fluent
+@inject ISnackbar Snackbar
+
+<!-- Report Generation Form -->
+<div class="report-container d-flex flex-column flex-wrap bg-white p-3">
+    <MudText Typo="Typo.h5">Generate Transactions Report</MudText>
+    <MudForm Class="bg-black bg-opacity-10 p-2">
+        <MudText Typo="Typo.body1">Select Report Type</MudText>
+        <MudRadioGroup @bind-SelectedOption="@_reportType" T="string" Required="true" RequiredError="Report type is required.">
+            <MudRadio Value="@("Daily")" Color="Color.Primary">Daily</MudRadio>
+            <MudRadio Value="@("Monthly")" Color="Color.Primary">Monthly</MudRadio>
+        </MudRadioGroup>
+        <MudText Typo="Typo.body1" class="mt-3">Select Date</MudText>
+        <MudDatePicker Class="w-25" Editable="true" @bind-Date="_date" Placeholder="Select Date"/>
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" DisableElevation="true" OnClick="generateReport">Create Report</MudButton>
+    </MudForm>
+</div>
+
+
+<!-- Transactions List Table -->
+<MudTable Items="@_ordersList" Hover="true" Class="p-4 m-auto align-items-center justify-content-center bg-light bg-opacity-75">
+    <ToolBarContent>
+        <MudText Typo="Typo.h5"><strong>Transactions List</strong></MudText>
+        <MudSpacer />
+        <MudTextField @bind-Value="searchString" Placeholder="Search" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+    </ToolBarContent>
+
+    <HeaderContent>
+        <MudTh Style="font-weight:600;">Order Id</MudTh>
+        <MudTh Style="font-weight:600;">Customer Id</MudTh>
+        <MudTh Style="font-weight:600;">Customer Name</MudTh>
+        <MudTh Style="font-weight:600;">Email</MudTh>
+        <MudTh Style="font-weight:600;">Contact</MudTh>
+        <MudTh Style="font-weight:600;">Order Date</MudTh>
+        <MudTh Style="font-weight:600;">Order Handler</MudTh>
+        <MudTh Style="font-weight:600;">Discount</MudTh>
+        <MudTh Style="font-weight:600;">Total Price</MudTh>
+    </HeaderContent>
+
+    <RowTemplate>
+        <MudTd DataLabel="Coffee Type">@context.OrderId</MudTd>
+        <MudTd DataLabel="Coffee Type">@context.CustomerId</MudTd>
+        <MudTd DataLabel="Coffee Type">@context.CustomerName</MudTd>
+        <MudTd DataLabel="Coffee Type">@context.CustomerEmail</MudTd>
+        <MudTd DataLabel="Coffee Type">@context.CustomerContact</MudTd>
+        <MudTd DataLabel="Coffee Type">@context.OrderDate</MudTd>
+        <MudTd DataLabel="Coffee Type">@context.StaffUsername</MudTd>
+        <MudTd DataLabel="Coffee Type">@context.Discount</MudTd>
+        <MudTd DataLabel="Price">@context.Total</MudTd>
+    </RowTemplate>
+    <PagerContent>
+        <MudTablePager/>
+    </PagerContent>
+</MudTable>
+
+    @code {
+    // Cascading parameter to share global state
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    // Orders list and search string
+    private IEnumerable<Orders> _ordersList = new List<Orders>();
+    private string searchString = "";
+
+    // Method to initialize the component
+    protected override void OnInitialized()
+    {
+        _ordersList = OrderServices.GetAllOrders();
+    }
+
+    // Report generation parameters
+    private string _reportType { set; get; }
+    DateTime? _date = DateTime.Today;
+
+
+    // Method to generate the transaction report
+    private void generateReport()
+    {
+        try
+        {
+            String _reportGenerationDate;
+
+            // Determine report date based on selected report type
+            if (_reportType == "Daily")
+            {
+                _reportGenerationDate = _date?.ToString("dd-MM-yyyy");
+            }
+            else
+            {
+                _reportGenerationDate = _date?.ToString("MM-yyyy");
+            }
+
+            // Generate the order list for the selected report type and date
+            List<Orders> orders = ReportServices.GenerateOrderList(_reportType, _reportGenerationDate);
+
+            // Show error message if no orders found for the selected date
+            if (orders.Count == 0)
+            {
+                Snackbar.Add("No Orders Founds on this date. Please select another date", Severity.Error);
+                return;
+            };
+
+            // Create a report object
+            Reports _report = new()
+                {
+                    ReportType = _reportType,
+                    ReportDate = _reportGenerationDate,
+                    OrdersList = orders,
+                    Revenue = Math.Round(orders.Sum(_order => (_order.Total - _order.Discount)), 2)
+                };
+
+
+
+            // Generate PDF report
+            PDFGenerator document = new PDFGenerator(_report);
+            string generatedReportName = $"{_reportGenerationDate}_{_reportType}_Report.pdf";
+            string folderPath = Path.Combine(Utils.GetAppDirectoryPath(), "Generated Reports");
+
+            if (!Directory.Exists(folderPath))
+            {
+                Directory.CreateDirectory(folderPath);
+            }
+
+            string filePath = Path.Combine(folderPath, $"{new Random().Next(1, 100000).ToString()}_Report.PDF"); document.GeneratePdf(filePath);
+
+            document.GeneratePdf(filePath);
+
+        }
+        catch
+        {
+            return;
+        }
+    }
+}

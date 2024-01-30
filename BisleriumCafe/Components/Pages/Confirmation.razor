@@ -1,0 +1,249 @@
+﻿@page "/confirmation"
+@inject OrderServices OrderServices
+@inject MembershipService MembershipService
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+
+<style>
+    .container{
+        /* Add any custom styles for the container*/
+    }
+
+    
+</style>
+
+<!-- Step 1: Check Membership -->
+@if (_step == 1)
+{
+    <div class="container">
+        <!-- Membership check form -->
+        <div class="row g-3 mt-0">
+            <div class="col-6">
+                <form @onsubmit=MembershipHandler>
+                    <h3 class="p-1">Check Membership</h3>
+                    <div class=" p-2 form-floating">
+                        <input type="text" class="form-control" id="customerContact" placeholder="Contact Number" @bind-value="_customerContact">
+                        <label for="floatingInput" class="form-floating Membership Number">Membership Number</label>
+                    </div>
+                    <div class="p-2 col-12">
+                        <button type="submit" class="btn btn-primary">Next</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+}
+
+<!-- Step 2: Provide Customer Information -->
+@if (_step == 2)
+{
+    <div class="container">
+        <form class="row g-3" @onsubmit=checkCustomerInfo>
+            <div class="form-floating col-md-5">
+                <input type="text" class="form-control" id="customerName" @bind-value="_customer.CustomerName">
+            <label for="floatingInput" class="form-floating">Customer Name</label>
+            </div>
+            <div class="form-floating col-md-5">
+                <input type="text" class="form-control" id="customerContact" @bind-value="_customer.CustomerContact">
+                <label for="floatingInput" class="form-floating">Phone number</label>
+            </div>
+            <div class="form-floating col-md-5">
+                <input type="email" class="form-control" id="customerEmail" @bind-value="_customer.CustomerEmail">
+                <label for="floatingEmail" class="form-floating">Customer Email</label>
+            </div>
+            <div class="form-floating col-md-5">
+                <input type="text" class="form-control" id="customerAddress" @bind-value="_customer.CustomerAddress">
+                <label for="floatingInput" class="form-floating">Address</label>
+            </div>
+            <div class="col-md-6">
+                <button @onclick="PreviousPage" class="btn btn-secondary">Previous</button>
+            </div>
+            <div class="col-md-6">
+                <button type="submit" class="btn btn-primary">Next</button>
+            </div>
+        </form>
+    </div>
+}
+
+<!-- Step 3: Display Order Details -->
+@if (_step == 3)
+{
+    <MudTable Items="@Items" Hover="true" Class="p-4 m-auto align-items-center justify-content-center">
+        <!-- ... Table content for displaying order details ... -->
+        <ToolBarContent>
+            <MudText Typo="Typo.h6">Order Details</MudText>
+            <MudSpacer />
+        </ToolBarContent>
+
+        <HeaderContent>
+            <MudTh Style="font-weight:600;">Ordered Item</MudTh>
+            <MudTh Style="font-weight:600;">Amount</MudTh>
+            <MudTh Style="font-weight:600;">Price</MudTh>
+            <MudTh Style="font-weight:600;">Order Total</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd DataLabel="Ordered Item">@context.ItemName</MudTd>
+            <MudTd DataLabel="Amount">@context.ItemAmount</MudTd>
+            <MudTd DataLabel="Price">@context.ItemPrice</MudTd>
+            <MudTd DataLabel="Order Total">@context.OrderTotalPrice</MudTd>
+        </RowTemplate>
+
+            <PagerContent>
+                <MudTablePager />
+            </PagerContent>
+
+            <FooterContent>
+                <div class="d-flex flex-row w-100 p-2 align-content-between justify-content-between">
+                    <MudText Style="font-weight:600;" Class="p-2">Total Price: Rs.@Math.Round(_totalPrice, 2)</MudText>
+                    <MudText Style="font-weight:600;" Class="p-2">Discount: Rs.0</MudText>
+                    <MudText Style="font-weight:600;" Class="p-2">Grand Total: Rs.@Math.Round(_totalPrice, 2)</MudText>
+                    @if (_freeCoffeeCount != 0)
+                    {
+                        <MudText Style="font-weight:600;"> Available Coffee Coupons: @_freeCoffeeCount</MudText>
+                        <MudButton Class="p-2" Variant="@Variant.Filled" Color="@Color.Primary" @onclick="()=>FreeCoffee()">Redeem Free Coffee</MudButton>
+                    }
+                    <MudButton Class="p-2" Variant="@Variant.Filled" Color="@Color.Success" @onclick="@(() => {BuyOrder(); Snackbar.Add("Purchase Complete.", Severity.Success, config =>
+                    {
+                        config.Icon = Icons.Material.Filled.DownloadDone;
+                        config.IconColor = Color.Default;
+                        config.IconSize = Size.Large;
+                    });})">
+                        Finish Order
+                    </MudButton>
+                </div>
+        </FooterContent>
+    </MudTable>
+}
+
+@code {
+    [CascadingParameter]
+    private GlobalState _globalState { set; get; }
+
+    private int _step = 1;
+
+    private double _totalPrice { set; get; } = 0;
+
+    private IEnumerable<OrderItems> Items = new List<OrderItems>();
+
+    private string _errorMessage { set; get; }
+
+    private Customers _customer { get; set; }
+    private string _customerContact { get; set; }
+    private bool _hasMembership { get; set; } = false;
+    private int _freeCoffeeCount { get; set; } = 0;
+    public double _discount { get; set; } = 0;
+
+    protected override void OnInitialized()
+    {
+        Items = _globalState.OrderList;
+        _totalPrice = OrderServices.TotalSum(Items);
+    }
+
+    private void PreviousPage()
+    {
+        if (_hasMembership)
+        {
+            _hasMembership = false;
+            _step = 0;
+            NavigationManager.NavigateTo("/ordercoffee");
+            return;
+        }
+        _step--;
+    }
+
+    private void checkCustomerInfo()
+    {
+        if (string.IsNullOrEmpty(_customer.CustomerName) || string.IsNullOrEmpty(_customer.CustomerAddress) || string.IsNullOrEmpty(_customer.CustomerContact) || string.IsNullOrEmpty(_customer.CustomerEmail))
+        {
+            _errorMessage = "Invalid Customer Information.";
+            return;
+        }
+        _errorMessage = "";
+        _step++;
+    }
+
+
+    private void MembershipHandler()
+    {
+        if (string.IsNullOrEmpty(_customerContact))
+        {
+            _errorMessage = "Customer's Contact Is Required";
+            return;
+        }
+
+        _customer = MembershipService.GetCustomerByContact(_customerContact);
+
+        if (_customer == null)
+        {
+            _customer = new();
+            _customer.CustomerContact = _customerContact;
+            _step++;
+            return;
+        }
+
+        _freeCoffeeCount = MembershipService.FreeCoffeeCount(_customerContact);
+        bool isCustomerRegular = MembershipService.IsRegularCustomer(_customer.CustomerContact);
+
+        if (isCustomerRegular)
+        {
+            _discount = _totalPrice * 0.1;
+        }
+
+        _hasMembership = true;
+        _step = 3;
+
+    }
+
+    private void FreeCoffee()
+    {
+        Dictionary<string, double> membershipDict = OrderServices.CoffeeCoupons(_freeCoffeeCount, _globalState.OrderList);
+
+        int redeemedCoffeeCount = (int)membershipDict["redeemedCoffeeCount"];
+        double redeemDiscount = membershipDict["discount"];
+
+        if (_discount == 0)
+        {
+            _discount = redeemDiscount;
+
+        }
+        else if ((redeemDiscount + _discount) > _totalPrice)
+        {
+            if (_discount > redeemDiscount)
+            {
+                Snackbar.Add("Coffee can't be currently redeemed.", Severity.Error);
+                return;
+            }
+        }
+        MembershipService.UpdateRedeemedFreeCoffeeCount(_customer.CustomerContact, redeemedCoffeeCount);
+    }
+
+
+    private void BuyOrder()
+    {
+        try
+        {
+            if (!_hasMembership)
+            {
+                MembershipService.CreateMembership(_customer);
+            }
+
+            Orders order = new()
+                {
+                    CustomerId = _customer.CustomerID,
+                    CustomerName = _customer.CustomerName,
+                    CustomerContact = _customer.CustomerContact,
+                    StaffUsername = _globalState.CurrentUser.Username,
+                    Total = Math.Round(_totalPrice, 2),
+                    OrdersList = _globalState.OrderList,
+                    Discount = Math.Round(_discount, 2),
+                };
+            OrderServices.PurchaseOrder(order);
+            _globalState.OrderList = new List<OrderItems>();
+            NavigationManager.NavigateTo("/ordercoffee");
+        }
+        catch (Exception e)
+        {
+
+        }
+    }
+}

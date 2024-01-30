@@ -1,0 +1,94 @@
+﻿@page "/users"
+@inherits LayoutComponentBase
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+@inject IDialogService DialogService
+
+<style>
+    MudButton:hover{
+        background-color:aliceblue;
+        color:black;
+    }
+</style>
+<div class="d-flex flex-row justify-content-between p-3">
+    <p class="h3 text-light">Add User</p>
+    <MudButton Class="bg-primary rounded-lg" Style="padding:10px; letter-spacing:2px;" @onclick="OpenDialog" Variant="Variant.Filled" Color="Color.Primary">
+        Add User
+    </MudButton>
+</div>
+
+<MudTable Items="@_users" Hover="true" Breakpoint="Breakpoint.Sm" LoadingProgressColor="Color.Dark" HorizontalScrollbar="true">
+    <HeaderContent>
+        <MudTh>User Id</MudTh>
+        <MudTh>Username</MudTh>
+        <MudTh>PasswordHash</MudTh>
+        <MudTh>CreatedAt</MudTh>
+        <MudTh>CreatedBy</MudTh>
+        <MudTh>Action</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="User Id">@context.Id</MudTd>
+            <MudTd DataLabel="Username">@context.Username</MudTd>
+            <MudTd DataLabel="PasswordHash">@context.PasswordHash</MudTd>
+            <MudTd DataLabel="CreatedAt">@context.CreatedAt</MudTd>
+            <MudTd DataLabel="CreatedBy">@context.CreatedBy</MudTd>
+            <MudTd DataLabel="Actions">
+                @if (context.Username != "admin")
+                {
+                    <MudButton Size="@Size.Small" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Delete" Color="Color.Error" @onclick="@(() => {DeleteUser(context.Id); Snackbar.Add("User Info Deleted.", Severity.Info, config =>
+                    {
+                        config.Icon = Icons.Material.Filled.DownloadDone;
+                        config.IconColor = Color.Warning;
+                        config.IconSize = Size.Large;
+                    });})">
+                    Delete
+                    </MudButton>
+                }
+                else
+                {
+                    <MudButton Size="@Size.Small" Disabled="true" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Delete" Color="Color.Error" @onclick="@(() => {DeleteUser(context.Id); Snackbar.Add("User Deleted.", Severity.Info, config =>
+                    {
+                        config.Icon = Icons.Material.Filled.DownloadDone;
+                        config.IconColor = Color.Warning;
+                        config.IconSize = Size.Large;
+                    });})">
+                    Delete
+                    </MudButton>
+                }
+        </MudTd>
+        </RowTemplate>
+    </MudTable>
+
+
+
+@code {
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+    private List<User> _users { get; set; }
+
+    protected override void OnInitialized()
+    {
+        // Initialize the list of users
+        _users = UsersService.GetAll();
+    }
+
+    private void OpenDialog()
+    {
+        DialogOptions closeOnEscapeKey = new DialogOptions() { CloseOnEscapeKey = true };
+
+        // Show a dialog to add a new user
+        DialogService.ShowAsync<UserCreationDialog>("Add Coffee", closeOnEscapeKey);
+    }
+
+    private void EditUser(Guid toEditCoffeeId)
+    {
+        // Navigation logic for editing a user
+        // NavigationManager.NavigateTo($"/users/{toEditCoffeeId}");
+    }
+
+    private void DeleteUser(Guid UserId)
+    {
+        // Delete a user and update the user list
+        _users = UsersService.Delete(UserId);
+    }
+}

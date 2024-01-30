@@ -1,0 +1,185 @@
+﻿@page "/ordercoffee"
+@layout Layout.MainLayout
+@inject NavigationManager NavigationManager
+@inject CoffeeServices CoffeeServices
+@inject OrderServices OrderServices
+@inject AddinServices AddinServices
+@inject ISnackbar Snackbar
+
+
+<!-- Coffee Order Table -->
+@* COFEEE ORDER TABLE*@
+<MudTable Items="@_coffees" Hover="true" Class="p-4 m-auto align-items-center justify-content-center" >
+    <ToolBarContent>
+        <MudText Typo="Typo.h5"><strong>Coffee Menu</strong></MudText>
+        <MudSpacer />
+        <MudTextField @bind-Value="searchString" Placeholder="Search" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+    </ToolBarContent>
+
+    <HeaderContent>
+        <MudTh Style="font-weight:600;">Coffee Type</MudTh>
+        <MudTh Style="font-weight:600;">Price</MudTh>
+        <MudTh Style="font-weight:600;">Actions</MudTh>
+    </HeaderContent>
+
+    <RowTemplate>
+        <MudTd DataLabel="Coffee Type">@context.CoffeeType</MudTd>
+        <MudTd DataLabel="Price">@context.Price</MudTd>
+        <MudTd DataLabel="Actions">
+            <MudStack Row>
+                <MudButton @onclick="@(() => { CoffeeCart(context.CoffeeId, context.CoffeeType, context.Price); IncreaseDecreaseItemHandler(context.CoffeeId, "subtract"); Snackbar.Add("Item Added To Cart.", Severity.Info, config =>
+                {
+                    config.Icon = Icons.Material.Filled.DownloadDone;
+                    config.IconColor = Color.Secondary;
+                    config.IconSize = Size.Large;
+                });})" Size="@Size.Small" Variant="@Variant.Filled" StartIcon="@Icons.Material.Filled.CoffeeMaker" Color="@Color.Secondary">
+                Order
+                </MudButton>
+            </MudStack>
+        </MudTd>
+    </RowTemplate>
+
+    <PagerContent>
+        <MudTablePager/>
+    </PagerContent>
+</MudTable>
+
+<!-- Addins Order Table -->
+<MudTable Items="@_addInList" Hover="true" Class="p-4 m-auto align-items-center justify-content-center">
+    <ToolBarContent>
+        <MudText Typo="Typo.h5"><strong>AddIns Menu</strong></MudText>
+        <MudSpacer />
+        <MudTextField @bind-Value="searchString" Placeholder="Search" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+    </ToolBarContent>
+
+    <HeaderContent>
+        <MudTh Style="font-weight:600;">AddIn Type</MudTh>
+        <MudTh Style="font-weight:600;">Price</MudTh>
+        <MudTh Style="font-weight:600;">Actions</MudTh>
+    </HeaderContent>
+
+    <RowTemplate>
+        <MudTd DataLabel="AddIn Type">@context.AddInType</MudTd>
+        <MudTd DataLabel="Price">@context.Price</MudTd>
+        <MudTd DataLabel="Actions">
+            <MudStack Row>
+                <MudButton @onclick="@(() => { AddInCart(context.Id, context.AddInType, context.Price); IncreaseDecreaseItemHandler(context.Id, "subtract"); Snackbar.Add("Item Added To Cart.", Severity.Info, config =>
+                {
+                    config.Icon = Icons.Material.Filled.DownloadDone;
+                    config.IconColor = Color.Secondary;
+                    config.IconSize = Size.Large;
+                });})" Size="@Size.Small" Variant="@Variant.Filled" StartIcon="@Icons.Material.Filled.CoffeeMaker" Color="@Color.Secondary">
+                    Order
+                </MudButton>
+            </MudStack>
+        </MudTd>
+    </RowTemplate>
+    <PagerContent>
+        <MudTablePager/>
+    </PagerContent>
+</MudTable>
+
+
+<!-- Cart Table -->
+<MudTable Items="@Items" Class="p-4 m-auto align-items-center justify-content-center" Hover="true" HorizontalScrollbar="true">
+    <ToolBarContent>
+        <MudText Typo="Typo.h5">Cart</MudText>
+        <MudSpacer />
+    </ToolBarContent>
+
+    <HeaderContent>
+        <MudTh Style="font-weight:600;">Name</MudTh>
+        <MudTh Style="font-weight:600;">Amount</MudTh>
+        <MudTh Style="font-weight:600;">Price</MudTh>
+        <MudTh Style="font-weight:600;">Actions</MudTh>
+    </HeaderContent>
+
+    <RowTemplate>
+        <MudTd DataLabel="Name">@context.ItemName</MudTd>
+        <MudTd DataLabel="Amount">
+            <MudStack Row>
+                <MudIconButton Icon="@Icons.Material.Outlined.ArrowCircleLeft" Variant="Variant.Filled" Color="Color.Primary" OnClick="@(() => IncreaseDecreaseItemHandler(context.ItemId, "subtract"))" />
+                <MudText Style="padding-top: 5px">@context.ItemAmount</MudText>
+                    <MudIconButton Icon="@Icons.Material.Outlined.ArrowCircleRight" Variant="Variant.Filled" Color="Color.Primary" OnClick="@(() => IncreaseDecreaseItemHandler(context.ItemId, "add"))" />
+            </MudStack>
+        </MudTd>
+
+            <MudTd Style="font-weight:600;" DataLabel="Price">@context.ItemPrice</MudTd>
+            <MudTd Style="font-weight:600;" DataLabel="Actions">
+            <MudStack Row>
+                <MudIconButton Icon="@Icons.Material.Filled.Delete" Size="@Size.Small" Variant="@Variant.Filled" Color="@Color.Secondary" OnClick="@(() => DeleteItem(context.ItemId))"></MudIconButton>
+            </MudStack>
+        </MudTd>
+    </RowTemplate>
+    <FooterContent>
+        <div class="d-flex flex-row w-100 p-2 align-content-end justify-content-around">
+            <MudText Style="font-weight:600;" Class="p-2">Total Price: Rs.@Math.Round(_totalPrice, 2)</MudText>
+            <MudButton Class="p-2" Variant="@Variant.Filled" Color="@Color.Primary" OnClick="@(() => NavigationManager.NavigateTo("/confirmation"))">Buy</MudButton>
+        </div>
+    </FooterContent>
+</MudTable>
+
+
+@code {
+    // Cascading parameter to share global state
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    // Coffee and AddIn lists
+    private IEnumerable<CoffeeItems> _coffees = new List<CoffeeItems>();
+    private IEnumerable<AddIns> _addInList = new List<AddIns>();
+
+    private string searchString = "";
+
+    // Initialization method
+    protected override void OnInitialized()
+    {
+        // Retrieve coffee, addin, and order information
+        _coffees = CoffeeServices.GetAll();
+        Items = _globalState.OrderList;
+        _totalPrice = OrderServices.TotalSum(Items);
+        _addInList = AddinServices.GetAllAddIns();
+    }
+
+    // Method to handle ordering addins
+    private void EditAddIn(Guid addInID)
+    {
+        NavigationManager.NavigateTo($"/addins/{addInID}");
+    }
+
+    private void DeleteAddIn(Guid addInID)
+    {
+        _addInList = AddinServices.DeletAddIn(addInID);
+    }
+
+    // Method to handle ordering coffee
+    public void CoffeeCart(Guid toBuyCoffeeId, string coffeeType, double price)
+    {
+        OrderServices.AddToOrderItemsList(_globalState.OrderList, toBuyCoffeeId, coffeeType, price);
+    }
+
+    private void AddInCart(Guid addInId, string addInType, double addInPrice)
+    {
+        OrderServices.AddToOrderItemsList(_globalState.OrderList, addInId, addInType, addInPrice);
+    }
+
+
+    // Total price and order items properties
+    private double _totalPrice { set; get; } = 0;
+
+    private IEnumerable<OrderItems> Items = new List<OrderItems>();
+
+    // Method to handle increasing/decreasing item amount in the cart
+    private void IncreaseDecreaseItemHandler(Guid orderItemId, string chosenInput)
+    {
+        OrderServices.EditItemAmount(_globalState.OrderList, orderItemId, chosenInput);
+        _totalPrice = OrderServices.TotalSum(Items);
+    }
+
+    // Method to delete an item from the cart
+    private void DeleteItem(Guid orderItemID)
+    {
+        OrderServices.DeleteFromOrderItemsList(_globalState.OrderList, orderItemID);
+        _totalPrice = OrderServices.TotalSum(Items);
+    }
+}

@@ -1,0 +1,65 @@
+﻿<!-- Injecting necessary services -->
+@inject ISnackbar Snackbar
+@inject AddinServices AddinServices
+
+<!-- Styling for the MudBlazor Dialog -->
+<style>
+    MudDialog .dialog-container {
+        background-image: url("../../wwwroot/css/dialogimg.jpg");
+    }
+</style>
+
+<!-- MudBlazor Dialog for adding a new AddIn -->
+<MudDialog Class="rounded-xl">
+    <!-- Dialog Content Section -->
+    <DialogContent>
+        <!-- MudBlazor Text Field for AddIn Name -->
+        <MudTextField T="string" @bind-Value="@addInName" Label="Addin Name" Required="true" RequiredError="Addin name is required!"></MudTextField>
+
+        <!-- MudBlazor Text Field for AddIn Price -->
+        <MudTextField T="string" Label="Price" @bind-value="@price" Required="true" RequiredError="Price is required!"></MudTextField>
+    </DialogContent>
+
+    <!-- Dialog Actions Section -->
+    <DialogActions>
+        <!-- MudBlazor Button to Cancel the AddIn addition -->
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+
+        <!-- MudBlazor Button to Submit the new AddIn -->
+        <MudButton Color="Color.Primary" OnClick="Submit">Ok</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    // Cascading parameter to get the MudDialogInstance
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+
+    // Fields for capturing AddIn information
+    private string addInName;
+    private string price;
+
+    // Method to handle the submission of the form
+    void Submit()
+    {
+        try
+        {
+            // Call the AddinServices to create a new AddIn
+            AddinServices.CreateNewAddIn(addInName, double.Parse(price));
+
+            // Show a success Snackbar notification
+            Snackbar.Add($"Addin {addInName} is Added!", Severity.Success);
+
+            // Close the MudBlazor Dialog with a success result
+            MudDialog.Close(DialogResult.Ok(true));
+        }
+        catch (Exception e)
+        {
+            Snackbar.Add(e.Message, Severity.Error);
+        }
+
+
+    }
+
+    // Method to handle cancellation of the form
+    void Cancel() => MudDialog.Cancel();
+}

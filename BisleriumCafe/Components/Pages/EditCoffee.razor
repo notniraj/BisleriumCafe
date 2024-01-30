@@ -1,0 +1,88 @@
+﻿@page "/coffees/{toEditCoffeeId}"
+@inject NavigationManager NavigationManager
+@inject ISnackbar Snackbar
+
+<h3>Edit Coffee</h3>
+
+<form class="editform container" @onsubmit="()=>EditCoffeeMethod()">
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label for="coffeeType" class="form-label">Coffee type</label>
+            <input type="text" class="form-control" id="coffeeType" @bind-value="_coffee.CoffeeType">
+        </div>
+        <div class="col-md-6">
+            <label for="price" class="form-label">Price</label>
+            <input type="number" class="form-control" id="price" @bind-value="_coffee.Price">
+        </div>
+        <div class="col-md-6">
+        </div>
+        <div class="col-12">
+            <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Edit" Color="Color.Success" @ondurationchange="()=>returnToPage()" @onclick="@(() => {returnToPage(); Snackbar.Add("Coffee Info Updated.", Severity.Info, config =>
+            {
+                config.Icon = Icons.Material.Filled.DownloadDone;
+                config.IconColor = Color.Warning;
+                config.IconSize = Size.Large;
+            });})">
+                Edit
+            </MudButton>
+        </div>
+    </div>
+</form>
+
+@code {
+    // Parameter to get the ID of the coffee to be edited
+    [Parameter] public string toEditCoffeeId { get; set; }
+
+    // Cascading parameter to share global state
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    // Error message to display in case of exceptions
+    private string _errorMessage { get; set; } = "";
+
+    // Coffee item to store the details
+    private CoffeeItems _coffee { get; set; }
+
+
+    // Initialization method to retrieve the details of the coffee to be edited
+    protected override void OnInitialized()
+    {
+        _coffee = CoffeeServices.GetCofeeByID(toEditCoffeeId);
+    }
+
+    // Method to navigate back to the Coffees page
+    protected void returnToPage()
+    {
+        NavigationManager.NavigateTo("/coffees");
+    }
+
+    // Method to handle the coffee editing process
+    protected void EditCoffeeMethod()
+    {
+        try
+        {
+            // Validation checks for coffee details
+            if (String.IsNullOrEmpty(_coffee.CoffeeType))
+            {
+                _errorMessage = "Enter the coffee type";
+                return;
+            }
+
+            if (_coffee.Price <= 0)
+            {
+                _errorMessage = "Enter a valid price";
+                return;
+            }
+
+            // Reset the error message
+            _errorMessage = "";
+            CoffeeServices.Update(_coffee);
+
+        }
+        catch (Exception ex)
+        {
+            // Handle exceptions and display an error message
+            _errorMessage = ex.Message;
+        }
+    }
+}

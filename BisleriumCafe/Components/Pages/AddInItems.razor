@@ -1,0 +1,97 @@
+﻿@page "/addins"
+@inherits LayoutComponentBase
+@inject NavigationManager NavigationManager
+@inject AddinServices AddinServices
+@inject ISnackbar Snackbar
+@inject IDialogService DialogService
+
+<!-- Header Section -->
+<div class="d-flex flex-row justify-content-between p-3">
+    <p class="h3 text-light">Add AddIns</p>
+    <!-- Button to Open AddIns Creation Dialog -->
+    <MudButton Style="padding:10px; letter-spacing:2px;" Class="bg-primary rounded-lg" @onclick="OpenDialog" Variant="Variant.Filled" Color="Color.Primary">
+        Add AddIn
+    </MudButton>
+</div>
+
+<!-- Table Section -->
+<MudTable Items="@_addInsList" Hover="true" Class="mx-lg-auto object-contain">
+    <ToolBarContent>
+        <!-- Table Header -->
+        <MudText Typo="Typo.h5">AddIns Menu</MudText>
+        <MudSpacer />
+    </ToolBarContent>
+
+    <HeaderContent>
+        <!-- Column Headers -->
+        <MudTh Style="font-weight:600;">AddIn Type</MudTh>
+        <MudTh Style="font-weight:600;">Price</MudTh>
+        <MudTh Style="font-weight:600;">Actions</MudTh>
+    </HeaderContent>
+
+    <RowTemplate>
+        <!-- Data Rows -->
+        <MudTd DataLabel="AddIn Type">@context.AddInType</MudTd>
+        <MudTd DataLabel="Price">@context.Price</MudTd>
+        <MudTd DataLabel="Actions">
+            <!-- Edit and Delete Buttons -->
+            <MudStack Row>
+                <MudButton Size="@Size.Small" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Edit" IconColor="Color.Secondary" OnClick="@(() => {EditAddInHandler(context.Id);})">Edit</MudButton>
+                <MudButton Size="@Size.Small" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Delete" Color="Color.Error" OnClick="@(() => {DeleteAddIn(context.Id); Snackbar.Add("Add-In Info Deleted.", Severity.Info, config =>
+                {
+                    config.Icon = Icons.Material.Filled.DownloadDone;
+                    config.IconColor = Color.Warning;
+                    config.IconSize = Size.Large;
+                });})">
+                    Delete
+                </MudButton>
+            </MudStack>
+        </MudTd>
+    </RowTemplate>
+
+    <PagerContent>
+        <!-- Table Pager -->
+        <MudTablePager/>
+    </PagerContent>
+</MudTable>
+
+
+
+@code {
+    [CascadingParameter]
+    private GlobalState _globalState { get; set; }
+
+    private string _errorMessage { get; set; } = "";
+
+    private IEnumerable<AddIns> _addInsList = new List<AddIns>();
+
+    // Method to open the AddIns creation dialog
+    private void OpenDialog()
+    {
+        DialogOptions closeOnEscapeKey = new DialogOptions() { CloseOnEscapeKey = true };
+
+        // Show the AddIns creation dialog
+        DialogService.ShowAsync<AddInsCreationDialog>("Add Coffee", closeOnEscapeKey);
+    }
+
+    // Initialize the component
+    protected override void OnInitialized()
+    {
+    // Load all AddIns when the component is initialized
+        _addInsList = AddinServices.GetAllAddIns();
+
+    }
+    // Handler to navigate to the edit AddIn page
+    private void EditAddInHandler(Guid toEditAddInId)
+    {
+        NavigationManager.NavigateTo($"/addins/{toEditAddInId}");
+    }
+
+    // Handler to delete an AddIn
+    private void DeleteAddIn(Guid cID)
+    {
+        _addInsList = AddinServices.DeletAddIn(cID);
+    }
+
+}
+

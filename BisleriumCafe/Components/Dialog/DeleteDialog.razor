@@ -1,0 +1,30 @@
+﻿<MudDialog>
+    <!-- Dialog content section -->
+    <DialogContent>
+        <MudText>@ContentText</MudText>
+    </DialogContent>
+    
+    <!-- Dialog actions section -->
+    <DialogActions>
+        <!-- Cancel button -->
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+
+        <!-- Submit button with customizable text and color -->
+        <MudButton Color="@Color" Variant="Variant.Filled" OnClick="Submit">@ButtonText</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+
+    // Input parameters for content text, button text, and button color
+    [Parameter] public string ContentText { get; set; }
+    [Parameter] public string ButtonText { get; set; }
+    [Parameter] public Color Color { get; set; }
+
+    // Method to close the dialog with a success result
+    void Submit() => MudDialog.Close(DialogResult.Ok(true));
+
+    // Method to cancel and close the dialog
+    void Cancel() => MudDialog.Cancel();
+}
